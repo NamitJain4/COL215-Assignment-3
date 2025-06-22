@@ -1,0 +1,3 @@
+memory_initialization_radix = 10;
+memory_initialization_vector = 90, 245, 253, 134, 212, 243, 146, 128, 203, 155, 136, 100, 17, 136, 107, 222;
+; Expected output F5C392a1A1339b88
